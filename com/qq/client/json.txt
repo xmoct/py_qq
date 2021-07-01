@@ -1,0 +1,37 @@
+{
+    "user_id": "666666",    #QQ号码
+    "user_pwd": "caisile",  #QQ密码
+    "command": 1            #命令1为登录
+}
+
+
+{
+    "result": "0",
+    "user_id": "7777777",
+    "user_pwd": "bukeneng",
+    "user_id": "zhaosi",
+    "user_name": "赵四",
+    "friends": [
+        {
+            "online": "1",  #好友在线状态，“1”为在线，“0”为离线
+            "user_icon": "28",
+            "user_pwd": "bukeneng",
+            "user_id": "7777777",
+            "user_name": "李二"
+        },
+        {
+            "online": "1",  #好友在线状态，“1”为在线，“0”为离线
+            "user_icon": "30",
+            "user_pwd": "bukeneng",
+            "user_id": "222222",
+            "user_name": "李二"
+        },
+        {
+            "online": "0",  #好友在线状态，“1”为在线，“0”为离线
+            "user_icon": "53",
+            "user_pwd": "caisile",
+            "user_id": "55555",
+            "user_name": "柳梧"
+        },       
+    ]
+}
